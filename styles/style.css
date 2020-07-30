@@ -7,3 +7,9 @@ h1 {
     font-family: "Ubunto Mono", monospace;
     margin: 0;
 }
+
+.logo {
+    display: block;
+    margin: 0 auto;
+    width: 500px;
+}
