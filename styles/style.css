@@ -1,15 +1,56 @@
+@font-face {
+    font-family: "Computer Modern Concrete";
+    src: url("../fonts/cmunorm.ttf") format("truetype");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Computer Modern Concrete";
+    src: url("../fonts/cmunobx.ttf") format("truetype");
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Computer Modern Sans";
+    src: url("../fonts/cmunss.ttf");
+    font-weight: normal;
+    font-weight: normal;
+}
+
 html {
     font-size: 15px;
+    font-family: "Computer Modern Sans";
 }
 
 h1 {
+    text-align: center;
     font-size: 60px;
     font-family: "Ubunto Mono", monospace;
-    margin: 0;
+    margin: 0 auto;
 }
 
-.logo {
+nav ul {
+    list-style-type: none;
+}
+
+#logo {
     display: block;
     margin: 0 auto;
-    width: 500px;
+    width: 300px;
+}
+
+.contact {
+    display: grid;
+    place-items: center;
+    height: 80px;
+    padding: 20px;
+}
+
+.menu {
+    font-size: 30px;
+    display: inline-block;
+    padding: 5px;
+    font-family: "Computer Modern Concrete";
 }
