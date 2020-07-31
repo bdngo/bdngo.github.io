@@ -1,3 +1,5 @@
+/* FONT DECLARATIONS */
+
 @font-face {
     font-family: "Computer Modern Concrete";
     src: url("../fonts/cmunorm.ttf") format("truetype");
@@ -20,7 +22,7 @@
 }
 
 html {
-    font-size: 15px;
+    font-size: 20px;
     font-family: "Computer Modern Sans";
 }
 
@@ -31,26 +33,66 @@ h1 {
     margin: 0 auto;
 }
 
-nav ul {
-    list-style-type: none;
-}
-
 #logo {
     display: block;
     margin: 0 auto;
     width: 300px;
+    padding-top: 1%;
 }
 
+article {
+    margin: 20px;
+}
+
+/* CONTACT ICONS */
+
 .contact {
-    display: grid;
-    place-items: center;
+    display: inline-block;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.contact a img {
     height: 80px;
-    padding: 20px;
+    padding: 0 10px;
+}
+
+/* NAVBAR */
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: black;
 }
 
 .menu {
-    font-size: 30px;
-    display: inline-block;
-    padding: 5px;
+    float: left;
     font-family: "Computer Modern Concrete";
+    color: white;
+    font-size: 35px;
+    padding: 5px;
+}
+
+.menu a {
+    display: block;
+    text-decoration: none;
+    color: inherit;
+    padding: inherit;
+    transition: color 200ms;
+    background-color: black;
+    transition: background-color 200ms;
+}
+
+.menu a:hover {
+    background-color: white;
+    color: black;
+}
+
+#active {
+    background-color: #f2bc51;
+    color: black;
 }
