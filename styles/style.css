@@ -21,6 +21,12 @@
     font-weight: normal;
 }
 
+/* GLOBALS */
+
+:root {
+    --navbar-bg: #303030;
+}
+
 html {
     font-size: 20px;
     font-family: "Computer Modern Sans";
@@ -66,7 +72,7 @@ nav ul {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: black;
+    background-color: var(--navbar-bg);
 }
 
 .menu {
@@ -83,7 +89,7 @@ nav ul {
     color: inherit;
     padding: inherit;
     transition: color 200ms;
-    background-color: black;
+    background-color: var(--navbar-bg);
     transition: background-color 200ms;
 }
 
