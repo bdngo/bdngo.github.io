@@ -27,6 +27,7 @@ html {
 
 h1 {
     font-family: "Ubuntu Mono", monospace;
+    margin: 0 5%;
 }
 
 #splash {
@@ -44,7 +45,7 @@ h1 {
 }
 
 article {
-    margin: 20px;
+    margin: 0 10%;
 }
 
 @keyframes color-rotate {
