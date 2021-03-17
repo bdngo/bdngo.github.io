@@ -9,8 +9,7 @@
 
 @font-face {
   font-family: "Computer Modern Sans";
-  src: url("../fonts/cmunss.ttf");
-  font-weight: normal;
+  src: url("../fonts/cmunss.ttf") format("truetype");
   font-weight: normal;
 }
 
