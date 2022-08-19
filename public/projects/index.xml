@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Bryan Ngo</title>
+    <link>https://bdngo.github.io/projects/</link>
+    <description>Recent content in Projects on Bryan Ngo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 18 Aug 2022 21:50:31 -0700</lastBuildDate><atom:link href="https://bdngo.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tri Calculator</title>
+      <link>https://bdngo.github.io/projects/tri-calculator/</link>
+      <pubDate>Thu, 18 Aug 2022 21:50:31 -0700</pubDate>
+      
+      <guid>https://bdngo.github.io/projects/tri-calculator/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+  </channel>
+</rss>
