@@ -7,13 +7,13 @@ framed: true
 
 # Bryan Ngo
 
-{{< image src="images/bryanngo.png" position="center" >}}
+{{< image src="images/bryanngo.png" position="center" style="max-height: 100%; width: auto;" >}}
 
 Hello, you’ve encountered the website of Bryan Ngo! I am currently studying EECS at UC Berkeley, class of 2023. This site is not much more than a landing page for my things.
 
 | résumé                                                       | email                                                    | linkedin                                                        | github                                                      |
 |--------------------------------------------------------------|----------------------------------------------------------|-----------------------------------------------------------------|-------------------------------------------------------------|
-| [{{< img src="images/icons8-external-link.svg" height="100" >}}][resume] | [{{< img src="images/email.svg" height="100" >}}][email] | [{{< img src="images/LI-In-Bug.png" height="100" >}}][linkedin] | [{{< img src="images/gh-dark.svg" height="100" >}}][github] |
+| [{{< image src="images/icons8-external-link.svg" position="center" style="max-height: 100px; width: auto;" >}}][resume] | [{{< image src="images/email.svg" position="center" style="max-height: 50px; width: auto;" >}}][email] | [{{< image src="images/LI-In-Bug.png" position="center" style="max-height: 50px; width: auto;" >}}][linkedin] | [{{< image src="images/gh-dark.svg" position="center" style="max-height: 100px; width: auto;" >}}][github] |
 
 [resume]: https://drive.google.com/file/d/1g8jFVv6k7EdBwlvU-D20Tvd2VstazokB/view?usp=sharing
 [email]: mailto:bryanngo@berkeley.edu
