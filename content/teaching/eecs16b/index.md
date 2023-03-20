@@ -23,4 +23,4 @@ Each folder contains the rendered `.pdf` already, but if you want to render it u
 - `graphicx` for including images
 - `hyperref` for better URL link handling
 
-All of these should be available in a standard MikTex, MacTex, or TeX Live distribution.
+All of these should be available in a standard [MikTex](https://miktex.org/download), [MacTex](https://www.tug.org/mactex/mactex-download.html), or [TeX Live](https://tug.org/texlive/) distribution.
