@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/bngo
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://bdngo.github.io
+  * I am bngo (https://keybase.io/bngo) on keybase.
+  * I have a public key ASCnhMQfMNLruRU1EU8cDxRgEmmlBCeLSZLCd-wKBYMxSgo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120a83e5247a879f81792091cc5a160d0e480613e4072702eaf5955396349018ff40a",
+      "host": "keybase.io",
+      "kid": "0120a784c41f30d2ebb91535114f1c0f14601269a504278b4992c277ec0a0583314a0a",
+      "uid": "5b2ec57ef90c8919ef05b165fb09fc19",
+      "username": "bngo"
+    },
+    "merkle_root": {
+      "ctime": 1679355842,
+      "hash": "c8e64b21cab17775717285dab0338826bb968cf4d3fe479d112b7d1fd1dfdd31da488618092d1be3c03e956fb6c836b44d0592de6bbe8128f7188a0239a6fca2",
+      "hash_meta": "0c30b3de9f9fdcbdcb51536579d41b8fd910d2750243336963c7deff00505979",
+      "seqno": 24225269
+    },
+    "service": {
+      "entropy": "nNG2EYhK41zSc8dB5ojiH0SP",
+      "hostname": "bdngo.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "6.0.2"
+  },
+  "ctime": 1679355903,
+  "expire_in": 504576000,
+  "prev": "e52f2f4f3e714c0fa68b88cd330414ad82f9a4e023c8dc82797329c77c6e66f7",
+  "seqno": 19,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgp4TEHzDS67kVNRFPHA8UYBJppQQni0mSwnfsCgWDMUoKp3BheWxvYWTESpcCE8Qg5S8vTz5xTA+mi4jNMwQUrYL5pOAjyNyCeXMpx3xuZvfEIAEYIAUTZlSAJJXXVuIRo+jaWJNd1a41koWlJVJURVFZAgHCo3NpZ8RAN0u9IPqb54W6wogNZBPq6BsNBLw15D8g7iHfif+frPxAPrgh72YfzWuXLTP2CWDG8qgJQW18QQTV6EYTa2lQAKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIGDajRQgsD0Yp55JO4S9lG2y3/4JU+GKRQiT9+ChtCMQo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/bngo
+
+==================================================================
