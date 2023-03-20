@@ -19,4 +19,4 @@ The material is currently organized by semester, but I plan on restructuring the
 &lt;li>&lt;code>graphicx&lt;/code> for including images&lt;/li>
 &lt;li>&lt;code>hyperref&lt;/code> for better URL link handling&lt;/li>
 &lt;/ul>
-&lt;p>All of these should be available in a standard MikTex, MacTex, or TeX Live distribution.&lt;/p></content></item></channel></rss>
+&lt;p>All of these should be available in a standard &lt;a href="https://miktex.org/download">MikTex&lt;/a>, &lt;a href="https://www.tug.org/mactex/mactex-download.html">MacTex&lt;/a>, or &lt;a href="https://tug.org/texlive/">TeX Live&lt;/a> distribution.&lt;/p></content></item></channel></rss>
